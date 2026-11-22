@@ -1,0 +1,13 @@
+credit_policy_lab/data/
+credit_policy_lab/cache/
+credit_policy_lab/models/
+data/
+cache/
+models/
+STUDY_GUIDE.md
+.ipynb_checkpoints/
+__pycache__/
+*.csv
+*.csv.gz
+INTERVIEW_WALKTHROUGH.md
+CLAUDE_CODE_SPEC_credit_policy_lab.md
