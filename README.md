@@ -8,7 +8,7 @@ This project uses historical LendingClub loans to build a default model, turns i
 
 ## Notebooks
 
-- `credit_policy_lab.ipynb`: full version (SQL cohort in DuckDB, own WoE scorecard, LightGBM, calibration, PSI, reason codes, caching, stress test, memo).
+- `credit_policy_lab.ipynb`: full version (SQL cohort in DuckDB, own WoE scorecard, LightGBM, calibration, PSI, reason codes, caching, stress test, memo). 
 - `credit_policy_simple.ipynb`: 22-cell short version of the same pipeline, easier to read and extend.
 
 ## Approach
